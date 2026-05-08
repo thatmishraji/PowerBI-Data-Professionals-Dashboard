@@ -24,7 +24,7 @@ Developed an interactive Power BI dashboard to analyze global survey data from d
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/full dashboard.png)
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ## Project Files
 - `dashboard.pbix` — Main Power BI dashboard
